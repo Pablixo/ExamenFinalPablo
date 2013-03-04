@@ -1,0 +1,195 @@
+/* ================================================= BODY ================================================= */ 
+body
+{
+	background-attachment:fixed;			/* Fondo de pantalla fijo */
+	background-repeat:no-repeat;			/* No se repite la imagen de fondo */
+	background-position:center;				/* Posición del fondo */
+	background-color:#99CCFF;				/* Color del fondo de pantalla */
+		
+	font-size:18px;							/* Tamaño de la letra */
+	text-align:left;						/* Alineación del texto */
+	color:#0000FF;							/* Color de las letras */
+	width:1024px;							/* Ancho de la página */
+	height:728px;							/* Altura de la página */	
+	margin:0 auto;							/* Margen */
+}
+/* ======================================================================================================== */
+
+/* ================================================= CUERPO ================================================= */ 
+#login
+{
+	background-image:url('preguntas.jpg');	/* Imagen de fondo */
+	background-color:#FFFFCC;
+	border:5px #FF6600 double;				/* Anchura, color y tipo de borde de la caja */
+	width:323px;
+	height:1500px;
+	min-height: 150px; /* para navegadores modernos */;
+	height: auto !important; /* para navegadores modernos */;
+
+	margin:0 auto;
+	text-align:center;						
+}
+/* ================================== */
+
+/* ====== CABECERA DEL LOGIN  ======= */
+.cabecera
+{
+	background-color:#FF5050;
+	width:300px;
+	height:20px;
+	font-size:18px;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-align:center;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	margin:0 auto;
+}
+/* ================================== */
+
+
+/* ======= ENUNCIADO PREGUNTA ======= */
+.enunciado
+{
+	background-color:#CCFF99;
+	width:250px;
+	height:20px;
+	min-height: 20px; /* para navegadores modernos */;
+	height: auto !important; /* para navegadores modernos */;
+	font-size:14px;
+	font-weight:bold;
+	color:#003300;
+	text-align:center;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	border:thin #009933 solid;
+	margin:10px;
+}
+/* ================================== */
+
+/* ========= LETRAS TÍTULO ========== */
+p
+{
+	font-size:18px;
+	font-weight:bold;
+	color:#003300;
+	text-align:center;
+}
+/* ================================== */
+
+/* ============== BEAN ============== */
+.bean
+{
+	font-size:28px;
+	font-weight:bold;
+	color:#003300;
+	text-align:center;
+}
+/* ================================== */
+
+/* ============== CAMPOS ============ */
+.campos
+{
+	background-color:#6699FF;
+	width:150px;
+	height:20px;
+	font-size:14px;
+	font-weight:bold;
+	color:black;
+	text-align:center;
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	margin:0 auto;
+	margin-bottom:10px;
+}
+/* ================================== */
+
+/* ========== CAMPO PRINCIPAl ======= */
+.camposPrin
+{
+	background-color:#FF5050;
+	width:150px;
+	height:20px;
+	font-size:14px;
+	font-weight:bold;
+	color:black;
+	text-align:center;
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	margin:0 auto;
+	margin-bottom:10px;
+}
+/* ================================== */
+
+/* ================ ID ============== */
+.id
+{
+	background-color:#FFCCFF;
+	width:150px;
+	height:20px;
+	font-size:14px;
+	font-weight:bold;
+	color:black;
+	text-align:center;
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	margin:0 auto;
+	margin-bottom:10px;
+}
+/* ================================== */
+
+/* ============ CONSULTAS =========== */
+.consultas
+{
+	background-color:#CCFFCC;
+	width:150px;
+	height:20px;
+	font-size:14px;
+	font-weight:bold;
+	color:black;
+	text-align:center;
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	margin:0 auto;
+	margin-bottom:10px;
+	text-decoration:none;
+}
+/* ================================== */
+
+/* ============= AÑADIR ============= */
+.añadir
+{
+	text-decoration:none;
+	float:right;
+	width:150px;
+	height:20px;
+	font-size:14px;
+	font-weight:bold;
+	color:black;
+	text-align:center;
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	margin:0 auto;
+	margin-right:10px;
+}
+/* ================================== */
+
+/* =========== REGISTROS ============ */
+.resultados
+{
+	background-color:#FFFFCC;
+	width:150px;
+	height:20px;
+	font-size:14px;
+	font-weight:bold;
+	color:black;
+	text-align:center;
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	margin:0 auto;
+	margin-bottom:10px;
+}
+/* ================================== */
+
+/* ============ SESIÓN ============== */
+.sesion
+{
+	float:right;
+	text-align:right;
+}
+/* ================================== */
+
+
+
